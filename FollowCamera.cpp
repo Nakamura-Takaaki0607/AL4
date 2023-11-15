@@ -33,6 +33,7 @@ void FollowCamera::Update() {
 	viewProjection_.UpdateViewMatrix();
 }
 
+
 //void FollowCamera::Draw(const ViewProjection& viewProjection) {
 //	// 3Dモデルを描画
 //	model_->Draw(worldTransform_, viewProjection);
